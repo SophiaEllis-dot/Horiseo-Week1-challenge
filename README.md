@@ -30,6 +30,9 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
+### Link to webpage
+https://sophiaellis-dot.github.io/Horiseo-Week1-challenge/
+
 ### Installation 
 N/A
 
